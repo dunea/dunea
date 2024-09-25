@@ -8,4 +8,4 @@
   - **闲聊**，我时间多，喜欢和有想法的人脑暴（吹牛）...
 - 📫如何联系我:
   - 讨论组: [GitHub讨论组](https://github.com/dunea/dunea/discussions) (推荐)
-  - 邮箱: medunea@gmail.com (不常看)
+  - telegram：[@nuoyea](https://t.me/nuoyea)
